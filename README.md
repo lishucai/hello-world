@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi everybody!
+I like python and 
+this is my first commit.
